@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<HTML lang="pt-br">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content e="device-width, initial-scale=1.0">
+
+<title> Numbers with 35</title>
+
+<link rela="stylesheet" href="style.css">
+
+</head>
+
+<sorro>
+
+<h1>Student average 02.0</h1>
+
+<button on click="midia()">Calculate average</button>
+
+<section i would="situation">
+
+<p>The result will appear here...</p>
+
+</section>
+
+<script source="midia.js"></script>
+
+</body>
+
+</HTML>
