@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<HTML- lang="pt-br">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="displaywindow" content="width-device-width, initial-scale-1.0">
+
+<title>Numbers with JS</title>
+
+<link rela="stylesheet"href="index.css">
+
+</head>
+
+<body>
+
+<h1>Student Average v2.0</h1>
+
+<button on click="media()">Calculate average</button>
+
+<section id="situation">
+
+<p>The result will appear here...</p>
+
+</section>
+
+<script source="java.js"></script>
+
+</body>
+
+</HTML->
