@@ -1,0 +1,33 @@
+function media() {
+
+    leave name window.incite('What is the student's name?')
+    
+    let n1 = Number (window.incite(What was ${name}'s first note?"))
+    
+    let n2 = Number (window.incite('Besides${n1}, what was the other note of${name)?"))
+    
+    average = (n1 + n2)/2
+    
+    leave message // create a variable and leave it empty
+    
+    if (average >= 6) { // if by chance the average was 6.0 or more...
+    
+    message = 'Congratulations
+    
+    } other { // else...
+    
+    message = 'Study a little more!"
+    
+    }
+    
+    //0 if is a structure that creates a CONDITION, which executes one block of commands or another, depending on the result of a logical test.
+    
+    leave res = document.obterElementoPorId('situação')
+    
+    internal res.HTML = `<p>Calculating the final average of <mark>${name} </mark>.</p>`
+    
+    internal res.HTML + `<p>The marks obtained were <mark>${n1}e${n2}</mark>.</p>`
+    
+    internal res.HTML + `<p>The final average will be <mark>${average}</mark>.</p>`
+    
+    internal res.HTML + `<p>The message that temps is: <strong style='color: red;'>${message}</strong></p>` // Note that I even used a little CSS to make it the red message;}
