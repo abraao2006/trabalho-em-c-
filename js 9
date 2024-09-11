@@ -1,0 +1,5 @@
+function informacao() {
+    let agora = new Date();
+    let disse = document.getElementById('disse');
+    disse.innerHTML = `<p>O que eu recebi do sistema foi <mark>${agora}</mark></p>`;
+}
